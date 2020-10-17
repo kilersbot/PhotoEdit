@@ -1,3 +1,3 @@
-pip insatll pillow
+pip insatall pillow
 
 Python 3.7.7
