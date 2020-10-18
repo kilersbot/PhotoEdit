@@ -1,4 +1,4 @@
-# PhotoEdit 1
+# PhotoEdit
 
 pip install pillow
 
