@@ -1,4 +1,4 @@
-# PhotoEdit 1.1 BETA
+# PhotoEdit 1
 
 pip install pillow
 
